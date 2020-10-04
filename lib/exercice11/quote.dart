@@ -1,5 +1,4 @@
 class Quote {
-
   String content;
   String author;
 
